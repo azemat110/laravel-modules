@@ -18,6 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1s6SA59HphTIkLu1CYRvAuvxjPc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620191401326</updated>
       <workItem from="1620191402873" duration="1828000" />
-      <workItem from="1620193261740" duration="1529000" />
+      <workItem from="1620193261740" duration="3301000" />
     </task>
     <servers />
   </component>

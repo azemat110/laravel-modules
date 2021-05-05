@@ -1,5 +1,5 @@
 <?php
-namespace hello;
+namespace Hello;
 
 class HelloWorld
 {

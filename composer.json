@@ -1,5 +1,5 @@
 {
-    "name": "azemat/laravle_modules",
+    "name": "azemat/lm",
     "description": "this is laravel tools,can auto make laravel modules",
     "type": "library",
     "authors": [

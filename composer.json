@@ -23,7 +23,7 @@
     "autoload": {
         "files": [],
         "psr-4": {
-            "Hello": "src"
+            "Hello\\": "src"
         }
     },
     "autoload-dev": {

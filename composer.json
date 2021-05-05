@@ -1,0 +1,13 @@
+{
+    "name": "azemat/laravle_modules",
+    "description": "this is laravel tools,can auto make laravel modules",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Azemat Abdurahman",
+            "email": "azemat0110@139.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

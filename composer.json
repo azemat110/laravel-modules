@@ -1,19 +1,34 @@
 {
     "name": "azemat/lm",
-    "description": "this is laravel tools,can auto make laravel modules",
-    "type": "library",
+    "description": "为了chameleon项目制作模块生成器，二次开发依赖包（nwidart/laravel-modules）",
+    "keywords": [
+        "变色龙",
+        "chameleon",
+        "laravel",
+        "模块化",
+        "azemat"
+    ],
+    "homepage": "http://www.lusuokeji.com/",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Azemat Abdurahman",
-            "email": "azemat0110@139.com"
+            "name": "azemat0110",
+            "email": "491863269@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
+        "files": [],
         "psr-4": {
-            "Hello\\": "src/"
+            "Hello": "src"
         }
     },
-    "license": "MIT"
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests"
+        }
+    }
 }
